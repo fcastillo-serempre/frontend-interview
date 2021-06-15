@@ -17,7 +17,7 @@ En el presente repositorio vas a encontrar las fuentes necesarias para llevar a 
 - **Atención al detalle**. El desarrollo debe ser fiel al diseño totalmente. Teniendo en cuenta colores, escala tipográfica, espaciados, altura de línea, etc.
 - **Ten en cuenta los diferentes dispositivos**. En el diseño podrás encontrar las respectivas referencias a los breakpoints.
 - **Hazla interactiva**. Los usuarios podrán seleccionar entre las diferentes imágenes y ver la previsualización en tiempo real, también podrán explorar las diferentes características (Overview, features, etc..) del producto por medio unas tabs, y el precio total debe mostrar la configuración seleccionada por el usuario en el total ubicado en el footer. (Intenta usar los elementos que te ofrece angular para realizar las funcionalidad).
-- **Dominio del Framework**. Al ser un desarrollo en angular, queremos ver que el candidato use en su máxima expresión el framework. Plantea una arquitectura que tenga en cuenta que en un futuro se van a implementar más cosas.
+- **Dominio del Framework**. Al ser un desarrollo en angular, queremos ver que el candidato use en su máxima expresión el framework como interfaces para tipar, Data Binding entre componentes, simula un servicio para pintar la data, implementación del rounting en las pantallas. Plantea una arquitectura que tenga en cuenta que en un futuro se van a implementar más cosas.
 - **Crea tus componentes desde cero**. Como bien sabes, Angular es un framework con un patrón de diseño basado en componentes, no uses ninguna librería para el carrusel de imágenes, los tabs, etc.
 - **Crea los componentes reusables y escalables**. Piensa en la cantidad de desarrolladores que podrían participar en el proyecto así como cuánto podría crecer el mismo.
 
