@@ -1,57 +1,55 @@
-# Prueba Front End para Serempre
-Hola! 👋
-Nos alegra que hayas llegado hasta este punto y puedas llegar a ser parte del gran equipo humano de Serempre.
+# Front End Test for Serempre
+Hi! 👋 We are glad that you have reached this point and can become part of the great team of Serempre.
 
-### ¿Qué debes hacer? 🧩
+### What should you do? 🧩
 
-Tu tarea consiste en tomar el siguiente diseño y desarrollarlo en JS Vainilla, React, Angular o Vue.
+Your task is to take the following design and develop it in JS Vanilla, React, Angular or Vue.
 
 ![Captura de pantalla](preview@1x.jpg)
 
-Link del diseño 👉 https://www.sketch.com/s/7f553820-d3b7-443c-86d7-f19bea8dcb89
+Design link 👉 https://www.sketch.com/s/7f553820-d3b7-443c-86d7-f19bea8dcb89
 
-En el siguiente repositorio vas a encontrar las fuentes necesarias para llevar a cabo la tarea.
+In the following repository you will find the necessary sources to carry out the task.
 
-### ¿Qué estamos buscando? 🕵️‍♂️
+### What are we searching for? 🕵️‍♂️
 
-- **Atención al detalle**. El desarrollo debe ser fiel al diseño totalmente. Teniendo en cuenta colores, escala tipográfica, espaciados, altura de línea, etc.
-- **Ten en cuenta los diferentes dispositivos**. En el diseño podrás encontrar las respectivas referencias a los breakpoints.
-- **Hazla interactiva**. Los usuarios podrán seleccionar entre las diferentes imágenes y ver la previsualización en tiempo real, también podrán explorar las diferentes características (Overview, features, etc..) del producto por medio unas tabs, y el precio total debe mostrar la configuración seleccionada por el usuario en el total ubicado en el footer.
-- **Haz tu solución accesible**. Sigue los mejores estándares de accesibilidad, incluyendo navegación por medio del teclado.
-- **Crea tus componentes desde cero**. No uses ninguna librería para el carrusel de imágenes, los tabs, etc.
-- **Crea los componentes reusables y escalables**. Piensa en la cantidad de desarrolladores que podrían participar en el proyecto así como cuánto podría crecer el mismo.
+- **Attention to detail**. The development must be faithful to the design completely. Taking into account colors, typographic scale, spacing, line height, etc.
+- **Take into account the different devices**. In the design, you can find the respective references to the breakpoints.
+- **Make it interactive**. Users will be able to select between the different images and see the preview in real-time, they will also be able to explore the different characteristics (Overview, features, etc.) of the product through some tabs, and the total price must show the configuration selected by the user in the total located in the footer.
+- **Make your solution accessible**. Follow the best accessibility standards, including keyboard navigation.
+- **Create your components from scratch**. Don't use any library for the image carousel, tabs, etc.
+- **Create reusable and scalable components**. Think about the number of developers that could participate in the project as well as how much it could grow.
 
-### A tener en cuenta 👀
+### To keep in mind 👀
 
-* Excelentes prácticas
-* Metodologías semánticas y técnicas
-* DRY y KISS
-* Uso de últimas tecnologías (ES6+, PostCss, Sass, Webpack, etc.)
-* Conocimiento de algún framework de JS
+* Excellent practices
+* Semantic and technical methodologies
+* DRY and KISS
+* Use of the latest technologies (ES6 +, PostCss, Sass, Webpack, etc.)
+* Knowledge of some JS framework
 * SEO
-* Desempeño
-* Accesibilidad
-* Desarrollo responsive y adaptativo
-* Funcionalidad en los navegadores más comunes
-* Optimización de recursos y assets
-* Proficiencia a la hora de escribir CSS
+* Performance
+* Accessibility
+* Responsive and adaptive development
+* Functionality in the most common browsers
+* Resource and asset optimization
+* Proficiency when writing CSS
 
-### Es un plus 🚀
+### It's a plus 🚀
 
-* Escribir test de los componentes
-* Resolver problemas desde un enfoque UX / UI
-* Uso de TypeScript
+* Write component test
+* Solve problems from a UX / UI approach
+* Using TypeScript
 
-### En caso que te animes a correr la milla extra 🏃‍♀️🏃‍♂️
+### In case you dare to run the extra mile 🏃‍♀️🏃‍♂️
 
-* Agregar animaciones
-* Incluir un loading
-* Integrar con una plataforma de Back-end
+* Add animations
+* Include a loading
+* Integrate with a Back-end platform
 
+### To send your solution 🏁
 
-### Para enviar tu solución 🏁
-
-Incluye un `README.md` con una pequeña descripción de tu solución que hable de las cosas interesantes con las que te enfrentaste, decisiones que tomaste, etc.
-Cuando termines, crea un repositorio privado en GitHub que solo contenga tu proyecto e invítame al mismo (Soy `fcastillo-serempre`).
-Monta el proyecto en una plataforma como Heroku, Netlify, Vercel, etc.
+Include a `README.md` with a short description of your solution that talks about the interesting things you faced, decisions you made, etc.
+When you're done, create a private repository on GitHub that only contains your project and invite me to it (I am `fcastillo-serempre`).
+Mount the project on a platform like Heroku, Netlify, Vercel, etc.
 
