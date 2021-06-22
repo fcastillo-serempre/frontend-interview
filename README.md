@@ -50,6 +50,6 @@ In the following repository you will find the necessary sources to carry out the
 ### To send your solution 🏁
 
 Include a `README.md` with a short description of your solution that talks about the interesting things you faced, decisions you made, etc.
-When you're done, create a private repository on GitHub that only contains your project and invite me to it (I am `fcastillo-serempre`).
+Add your name, lastname and location. When you're done, create a private repository on GitHub that only contains your project and invite me to it (I am `fcastillo-serempre`).
 Mount the project on a platform like Heroku, Netlify, Vercel, etc.
 
