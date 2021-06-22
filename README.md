@@ -1,5 +1,5 @@
 # Prueba Front End para Serempre
-Hola! 👋
+¡Hola! 👋
 Nos alegra que hayas llegado hasta este punto y puedas llegar a ser parte del gran equipo humano de Serempre.
 
 ### ¿Qué debes hacer? 🧩
@@ -57,6 +57,10 @@ A continuación encontraras los endpoint que podras integrar para obtener la dat
 ### Para enviar tu solución 🏁
 
 Incluye un `README.md` con una pequeña descripción de tu solución que hable de las cosas interesantes con las que te enfrentaste, decisiones que tomaste, etc.
-Cuando termines, crea un repositorio privado en GitHub que solo contenga tu proyecto e invítame al mismo (Soy `fcastillo-serempre`).
+Agrega tu nombre completo y lugar de residencia para poder llevar la trazabilidad del proyecto. Muchos nicknames no tienen relación con el nombre del aspirante.
+Cuando termines, crea un repositorio privado en GitHub que solo contenga tu proyecto e invítame al mismo (Soy `fcastillo-serempre`) junto a `lgonzalez@serempre.com`.
 Monta el proyecto en una plataforma como Heroku, Netlify, Vercel, etc.
+Todos estos requerimientos son necesarios para tener en cuenta tu prueba.
+
+¡Muchos éxitos!
 
