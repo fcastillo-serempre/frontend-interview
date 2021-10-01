@@ -6,6 +6,12 @@ Nos alegra que hayas llegado hasta este punto y puedas llegar a ser parte del gr
 
 Tu tarea consiste en tomar el siguiente diseño y desarrollarlo en JS Vainilla, React, Angular o Vue.
 
+### En el siguiente link encontrás la información del producto
+Link API del producto 👉 https://frontend-interview-api.vercel.app/api/items
+
+#### ¿Qué debes hacer con el API?
+Consumir el recurso y completar tu reto con la información que te devuelve, la información que no se encuentre en el recurso, la puedes agregar directamente en tus componentes o html.
+
 ![Captura de pantalla](preview@1x.jpg)
 
 Link del diseño 👉 https://www.sketch.com/s/7f553820-d3b7-443c-86d7-f19bea8dcb89
