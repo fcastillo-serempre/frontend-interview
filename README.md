@@ -64,7 +64,8 @@ A continuación encontraras los endpoint que podras integrar para obtener la dat
 
 Incluye un `README.md` con una pequeña descripción de tu solución que hable de las cosas interesantes con las que te enfrentaste, decisiones que tomaste, etc.
 Agrega tu nombre completo y lugar de residencia para poder llevar la trazabilidad del proyecto. Muchos nicknames no tienen relación con el nombre del aspirante.
-Cuando termines, crea un repositorio privado en GitHub que solo contenga tu proyecto e invítame al mismo (Soy `fcastillo-serempre`) junto a `lgonzalez@serempre.com`.
+Cuando termines, crea un repositorio privado en GitHub que solo contenga tu proyecto e invítame al mismo (Soy `fcastillo-serempre`) junto a `
+dvillanueva@serempre.com`.
 Monta el proyecto en una plataforma como Heroku, Netlify, Vercel, etc.
 Todos estos requerimientos son necesarios para tener en cuenta tu prueba.
 
